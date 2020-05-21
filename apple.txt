@@ -4,4 +4,5 @@ apple @@@@@@@@@
 apple
 apple
 apple edit by hot_fix
-test conflict
+edit by hot_fix test
+>>>>>>> hot_fix
